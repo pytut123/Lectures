@@ -12,7 +12,6 @@ def odd_even(x):
     else:
         print(f'{x} is odd')
 
-
 def square(x):
     return x**2
 
